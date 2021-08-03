@@ -8,6 +8,7 @@ namespace project1
         {
             Console.WriteLine("FUCK UP BRO!");
             Console.WriteLine("hellow world!");
+            Console.ReadKey();
         }
     }
 }
